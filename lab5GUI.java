@@ -13,7 +13,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.FileWriter;
 
-public class lab5GUI
+public class manageStudent
 {
 	public static void main(String[] args)
 	{
