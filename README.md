@@ -10,3 +10,9 @@ Create a Graphical User Interface (GUI) for a Student Class Management System
 * File Data output.
 * End program.
 
+###### GUI Implementation Description:
+* The GUI has been created using Java Swing
+* It uses a menu option style system wherein each of the above written choices are included in their own menu option.
+* Upon clicking on a menu option, a new panel with the required input and output fields shows up.
+* The user needs to click on the 'X' button to close any menu option related subPanel and the main Panel.
+
